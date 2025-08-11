@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Tanim Tassanim from Chattogram, Bangladesh<br><br>- 📚 I'm currently learning C programming language.<br>- I'm studying in Electronic and Telecommunication Engineering in International Islamic University Chattogram<br>- ⚡ In my free time I read blog about Tech, Al, ML</p>
+<p align="left">I'm Tanim Tassanim from Chattogram, Bangladesh<br><br>- 📚 I'm currently learning DSA with C++.<br>- I'm studying in Electronic and Telecommunication Engineering in International Islamic University Chattogram<br>- ⚡ In my free time I read blog about Tech, Al, ML</p>
 
 ###
 
