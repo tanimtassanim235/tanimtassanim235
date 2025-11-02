@@ -97,7 +97,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tanimtassanim235/count.svg?"  />
+  <img src="https://count.getloli.com/@:tanimtassanim235?theme=booru-mof&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
